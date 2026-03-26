@@ -4,7 +4,7 @@ A hands-on tutorial demonstrating image super resolution using
 the `stabilityai/stable-diffusion-x4-upscaler` model.
 
 ## Results
-[放你的比較圖在這裡]
+![SR Comparison](Comparison_LR_SR.png)
 
 ## What this covers
 - Loading a diffusion-based SR pipeline from HuggingFace
