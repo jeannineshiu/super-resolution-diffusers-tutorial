@@ -1,0 +1,22 @@
+# 🖼️ Image Super Resolution with HuggingFace Diffusers
+
+A hands-on tutorial demonstrating image super resolution using 
+the `stabilityai/stable-diffusion-x4-upscaler` model.
+
+## Results
+[放你的比較圖在這裡]
+
+## What this covers
+- Loading a diffusion-based SR pipeline from HuggingFace
+- Text-guided upscaling (4x resolution enhancement)
+- Visual comparison of LR vs SR output
+
+## How to run
+Click the badge below to open in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mJOlRNKTFabEnvtDammZp4jTmxVeldzz?usp=sharing)
+
+## Background
+This tutorial is inspired by my Master's research on super resolution,
+where I designed custom perceptual loss functions to improve OCR accuracy
+for license plate recognition. Published in Mathematics, 2025.
