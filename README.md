@@ -15,8 +15,3 @@ the `stabilityai/stable-diffusion-x4-upscaler` model.
 Click the badge below to open in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mJOlRNKTFabEnvtDammZp4jTmxVeldzz?usp=sharing)
-
-## Background
-This tutorial is inspired by my Master's research on super resolution,
-where I designed custom perceptual loss functions to improve OCR accuracy
-for license plate recognition. Published in Mathematics, 2025.
